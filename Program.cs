@@ -1,4 +1,4 @@
-﻿namespace Program3
+﻿namespace right_angle_triangle_finder
 {
     internal class Program
     {
